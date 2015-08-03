@@ -1,5 +1,5 @@
 === Theme Junkie Team Content ===
-Contributors: themejunkie, satrya
+Contributors: themejunkie
 Tags: team, post type, custom post type, member, members, authors, editors
 Requires at least: 3.6
 Tested up to: 4.0
